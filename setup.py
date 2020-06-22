@@ -21,7 +21,7 @@ setuptools.setup(
     # Specifying taht we are using markdown file for description 
     long_description_content_type="text/markdown",
     # Any link to reach this module, if you have any webpage or github profile 
-    url="https://github.com/hossainlab/pydemo",
+    url="https://github.com/hossainlab/SeqStats",
     packages=setuptools.find_packages(),
 
     # Classifiers like program is suitable for python3, just leave as it is. 
