@@ -187,13 +187,12 @@ at[1:20]
      63.1,
      66.9]
 
-## Sliding window Plot
-
+## Sliding window Plotting 
 ```python
 # sling plot of GC
 ss.plotSubSeqGC(seq, window=9000)
 ```
-![png](output_34_0.png)
+![png](./img/output_34_0.png)
 
 ```python
 # sling plot of AT
