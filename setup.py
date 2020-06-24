@@ -9,7 +9,7 @@ setuptools.setup(
     # Module / Package Name 
     name="SeqStats", 
     # Version of Package 
-    version="0.0.1",
+    version="0.0.2",
     # Name of Author 
     author="Jubayer Hossain",
     # Author Email 
